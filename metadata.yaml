@@ -1,0 +1,31 @@
+_repo: Feminism-and-Sex-Extinction_37964
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Kenealy, Arabella
+    birthdate: 1859
+    deathdate: 1938
+    gutenberg_agent_id: '39153'
+    url: http://www.gutenberg.org/2009/agents/39153
+description: Kenealy defines feminism as an assault on womanhood and as a movement
+  to make women manly. She stresses feminine virtues and encourages women to cultivate
+  their domestic roles.
+gutenberg_issued: '2011-11-09'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '37964'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Women -- Social conditions'
+- !lcc 'HQ'
+- !lcsh 'Women'
+- !lcsh 'Women -- Social and moral questions'
+- !lcsh 'Feminism'
+title: Feminism and Sex-Extinction
+url: http://www.gutenberg.org/ebooks/37964
